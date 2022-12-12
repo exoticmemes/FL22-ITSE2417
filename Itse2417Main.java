@@ -52,7 +52,7 @@ public class Itse2417Main
             new FinalProj(),          // Butler A
             new FinalProj(),          // Butler K
             new FinalProj(),          // Castaneda
-            new FinalProj(),          // Cole
+            new Cole(),          // Cole
             new FinalProj(),          // Denton
             new FinalProj(),          // Doan
             new FinalProj(),          // Gutt
